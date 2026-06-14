@@ -1,1 +1,2 @@
-# netflix-analytics
+# Netflix Content Analytics
+![img](img.jpg)
